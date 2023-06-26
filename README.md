@@ -18,6 +18,11 @@ O app de receitas é uma aplicação web que permite aos usuários visualizar, b
 
 A utilização de modernas tecnologias do ecossistema React, como React Context API e React Hooks, proporciona uma experiência interativa e fluida aos usuários.
 
+
+
+https://github.com/joicenicolau/App-Receitas-Fullstack/assets/112522719/1218a696-df51-4592-826a-67586cf287ef
+
+
 ## Funcionalidades
 
 - Visualizar receitas e drinks
